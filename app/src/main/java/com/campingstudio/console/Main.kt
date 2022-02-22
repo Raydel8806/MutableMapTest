@@ -22,6 +22,7 @@ fun accountsReport() {
 fun main() {
     accountsReport()
     extractMoney("0001",28)
+    extractMoney("0009",50)
     extractMoney("0002",50)
     extractMoney("0005",50)
     accountsReport()
